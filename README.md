@@ -1,0 +1,1 @@
+# Human Activities Recognition on PAMAP2 dataset using Random Forest
